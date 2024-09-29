@@ -25,10 +25,10 @@ const summoners = [
     },
     { 
         teamName: 'Diamante en flex btw',
-        name1: 'Derxelleo',
+        name1: 'Cacahuetes',
         id1: 'ipxvnNSDhlaHbvH888_U042xudGWN_FZdy-4TYalsItcaGuI8p0duX4Bjw',
         link1: 'https://www.op.gg/summoners/euw/Derxelleo-9328',
-        name2: 'Timeenik',
+        name2: 'Chaqueta',
         id2: 'MGjnre82gLzWiytM5obhHWD-3WkEdOqhjwSyqQcc3YyeKg3htq6KDQtlYg',
         link2: 'https://www.op.gg/summoners/euw/Timeenik-4235',
         linkduo: 'https://www.op.gg/multisearch/euw?summoners=Timeenik%234235%2CDerxelleo%239328'
