@@ -45,13 +45,13 @@ const summoners = [
     },
     { 
         teamName: 'Team Mercurio',
-        name1: 'Onoropetter',
+        name1: 'The Notorius',
         id1: '3Q-9VezmszEEtjJYFbCDQOSeQ-6oo93oxNKdWJj7EOxWOCwptmfUdTCKOw',
-        link1: 'https://www.op.gg/summoners/euw/Onoropetter-9955',
+        link1: 'https://www.op.gg/summoners/euw/The%20Notorius-Conor',
         name2: 'Vennolyesil',
         id2: 'n9jbAKUO6d_hgaRHkgOw26iFQ7KmXNXRO0IhBOnuWGqHmSpu44oYrbAVuA',
         link2: 'https://www.op.gg/summoners/euw/Vennolyesil-4185',
-        linkduo: 'https://www.op.gg/multisearch/euw?summoners=Onoropetter%239955%2CVennolyesil%234185'
+        linkduo: 'https://www.op.gg/multisearch/euw?summoners=The+Notorius%23Conor%2CVennolyesil%234185'
     },
     { 
         teamName: 'Team thePechi',
