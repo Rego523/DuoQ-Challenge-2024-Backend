@@ -30,8 +30,8 @@ const summoners = [
         link1: 'https://www.op.gg/summoners/euw/Derxelleo-9328',
         name2: 'Chaqueta',
         id2: 'MGjnre82gLzWiytM5obhHWD-3WkEdOqhjwSyqQcc3YyeKg3htq6KDQtlYg',
-        link2: 'https://www.op.gg/summoners/euw/Timeenik-4235',
-        linkduo: 'https://www.op.gg/multisearch/euw?summoners=Timeenik%234235%2CDerxelleo%239328'
+        link2: 'https://www.op.gg/summoners/euw/Chaqueta-PERI',
+        linkduo: 'https://www.op.gg/multisearch/euw?summoners=Chaqueta%23PERI%2CDerxelleo%239328'
     },
     { 
         teamName: 'Team Xurxo',
