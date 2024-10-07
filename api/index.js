@@ -44,7 +44,7 @@ const summoners = [
         linkduo: 'https://www.op.gg/multisearch/euw?summoners=07mon%23MONO%2Cicius07%23MONO'
     },
     { 
-        teamName: 'Team Mercurio',
+        teamName: 'Team Dif',
         name1: 'The Notorius',
         id1: '3Q-9VezmszEEtjJYFbCDQOSeQ-6oo93oxNKdWJj7EOxWOCwptmfUdTCKOw',
         link1: 'https://www.op.gg/summoners/euw/The%20Notorius-Conor',
@@ -54,7 +54,7 @@ const summoners = [
         linkduo: 'https://www.op.gg/multisearch/euw?summoners=The+Notorius%23Conor%2CVennolyesil%234185'
     },
     { 
-        teamName: 'Team thePechi',
+        teamName: 'Team Tumbadioses',
         name1: 'Hellontacqua',
         id1: 'qkplQaOExGbNmO4gpGxWQcpJvmPVw3dBq7eRyLG4rRNkabCAT-tRLYuxkQ',
         link1: 'https://www.op.gg/summoners/euw/Hellontacqua-1512',
@@ -64,7 +64,7 @@ const summoners = [
         linkduo: 'https://www.op.gg/multisearch/euw?summoners=Hellontacqua%231512%2CDierilianati%236528'
     },
     { 
-        teamName: 'Team Brais', 
+        teamName: 'LSI Enjoyer', 
         name1: 'Ctarlizzahky',
         id1: '0LoHdyjS3ckpxKtCXLkjD0ifaEKMgyGnCWS6dElORrWrwSidCTzSW7codg',
         link1: 'https://www.op.gg/summoners/euw/Ctarlizzahky-9107',
