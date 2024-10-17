@@ -1,7 +1,7 @@
 const express = require("express"); // npm init -y // npm install express
 const axios = require("axios");     // npm install axios
 const cors = require("cors");       // npm install cors
-//require("dotenv").config({ path: __dirname + '/.env' });  / npm install dotenv
+//require("dotenv").config({ path: __dirname + '/.env' });       / npm install dotenv
 
 const app = express();
 const PORT = process.env.PORT || 3000;
